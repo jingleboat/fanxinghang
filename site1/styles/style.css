@@ -1,0 +1,20 @@
+html {
+    font-size: 10px; 
+    font-family: "ZCOOL KuaiLe", zcl; 
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: greenyellow;
+  }
+  
+  
